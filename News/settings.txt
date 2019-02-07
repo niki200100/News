@@ -1,0 +1,3 @@
+ApiKey NewsApi: "null"
+Language: "de"
+Darkmode: "true"
